@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    padding: 10px;
+}
+
+.alert {
+    margin-top: 20px;
+}

@@ -1,0 +1,20 @@
+flask
+flask-login
+flask-bcrypt
+flask-sqlalchemy
+mysql-connector-python
+openai
+google-generativeai
+transformers
+torch
+python-dotenv
+mysqlclient
+streamlit
+pandas
+matplotlib
+gunicorn
+
+
+#cd streamlit_app
+#streamlit run streamlit_app.py
+#python app.py
